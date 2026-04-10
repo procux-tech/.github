@@ -63,7 +63,7 @@ By 2035, PROCUX powers a global ecosystem where:
 
 🌐 **Web:** [https://procux.com](https://procux.com)
 
-📧 **Email:** `procux24@gmail.com`
+📧 **Email:** `support@gmail.com.com`
 
 🔗 **LinkedIn:** [PROCUX Technology](https://www.linkedin.com/company/procux-technology-inc/)
 
