@@ -42,27 +42,27 @@ A global ecosystem where demand is unified across borders, strategic decisions a
 
 ```
 +--------------------------------------------------------------+
-|                     INTELLIGENCE LAYER                        |
-|                                                               |
-|   Multi-Agent AI Orchestration Engine                         |
-|   16 AI Agents  *  CEO Orchestrator  *  3-Layer Guardrails    |
-|   Collective Intelligence  *  Company DNA Profiler            |
+|                     INTELLIGENCE LAYER                       |
+|                                                              |
+|   Multi-Agent AI Orchestration Engine                        |
+|   16 AI Agents  *  CEO Orchestrator  *  3-Layer Guardrails   |
+|   Collective Intelligence  *  Company DNA Profiler           |
 +--------------------------------------------------------------+
-|                      COMMERCE LAYER                           |
-|                                                               |
-|   +-----------------------+   +-----------------------+       |
-|   |  Collective           |   |  Group Buying         |       |
-|   |  Purchasing           |   |  Platform             |       |
-|   |  Platform             |   |                       |       |
-|   +-----------------------+   +-----------------------+       |
-|           TR  <-------------------->  Global                  |
+|                      COMMERCE LAYER                          |
+|                                                              |
+|   +-----------------------+   +-----------------------+      |
+|   |  Collective           |   |  Group Buying         |      |
+|   |  Purchasing           |   |  Platform             |      |
+|   |  Platform             |   |                       |      |
+|   +-----------------------+   +-----------------------+      |
+|           TR  <-------------------->  Global                 |
 +--------------------------------------------------------------+
-|                   INFRASTRUCTURE LAYER                        |
-|                                                               |
-|   +-----------------------+   +-----------------------+       |
-|   |  Embedded Fintech     |   |  Logistics            |       |
-|   |  & Payments           |   |  Orchestration        |       |
-|   +-----------------------+   +-----------------------+       |
+|                   INFRASTRUCTURE LAYER                       |
+|                                                              |
+|   +-----------------------+   +-----------------------+      |
+|   |  Embedded Fintech     |   |  Logistics            |      |
+|   |  & Payments           |   |  Orchestration        |      |
+|   +-----------------------+   +-----------------------+      |
 +--------------------------------------------------------------+
 
         Demand --> AI Analysis --> Payment --> Logistics --> Feedback
