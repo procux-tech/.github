@@ -1,0 +1,37 @@
+{
+  "scriptCompleted": true,
+  "files": [
+    {
+      "path": ".understand-anything/config.json",
+      "language": "json",
+      "sizeLines": 3,
+      "fileCategory": "config"
+    },
+    {
+      "path": "profile/README.md",
+      "language": "markdown",
+      "sizeLines": 180,
+      "fileCategory": "docs"
+    },
+    {
+      "path": "README.md",
+      "language": "markdown",
+      "sizeLines": 2,
+      "fileCategory": "docs"
+    }
+  ],
+  "totalFiles": 3,
+  "filteredByIgnore": 0,
+  "estimatedComplexity": "small",
+  "stats": {
+    "filesScanned": 3,
+    "byCategory": {
+      "config": 1,
+      "docs": 2
+    },
+    "byLanguage": {
+      "json": 1,
+      "markdown": 2
+    }
+  }
+}

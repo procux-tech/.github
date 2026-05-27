@@ -1,0 +1,37 @@
+{
+  "version": "1.0.0",
+  "gitCommitHash": "9c2d03b6c1b26f2fb3fecd302d986a3872fd0bd8",
+  "generatedAt": "2026-05-27T00:50:33.873Z",
+  "files": {
+    ".understand-anything/config.json": {
+      "filePath": ".understand-anything/config.json",
+      "contentHash": "c0f077c41455a4529efe3ef4dc49f5b93833f0327b8a93f537d35daba7b30ac5",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 4,
+      "hasStructuralAnalysis": true
+    },
+    "profile/README.md": {
+      "filePath": "profile/README.md",
+      "contentHash": "c9a405c6ebb337f938ad0f59d56c5915aa097882b59ea8019067a218684749b0",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 181,
+      "hasStructuralAnalysis": true
+    },
+    "README.md": {
+      "filePath": "README.md",
+      "contentHash": "b0259ca3cb769e57c85c17634b11796d4ae9cbc7fd8228ebd84b8e3798b59538",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 3,
+      "hasStructuralAnalysis": true
+    }
+  }
+}

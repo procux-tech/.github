@@ -1,0 +1,59 @@
+{
+  "nodes": [
+    {
+      "id": "config:.understand-anything/config.json",
+      "type": "config",
+      "name": "config.json",
+      "filePath": ".understand-anything/config.json",
+      "summary": "Understand-Anything eklentisi yapılandırma dosyası; autoUpdate etkin ve çıktı dili Türkçe.",
+      "tags": [
+        "configuration",
+        "understand-anything",
+        "build-system"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "document:profile/README.md",
+      "type": "document",
+      "name": "README.md (profile)",
+      "filePath": "profile/README.md",
+      "summary": "PROCUX GitHub organizasyon profil sayfası; misyon, vizyon, ekosistem mimarisi, teknoloji yığını ve temel ilkeleri kapsar; 9 başlık altında 143 satırlık içerik.",
+      "tags": [
+        "documentation",
+        "entry-point",
+        "overview",
+        "organization"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "document:README.md",
+      "type": "document",
+      "name": "README.md",
+      "filePath": "README.md",
+      "summary": ".github deposunu tanımlayan kısa belge; organizasyon düzeyindeki GitHub yapılandırmalarını barındırır.",
+      "tags": [
+        "documentation",
+        "overview"
+      ],
+      "complexity": "simple"
+    }
+  ],
+  "edges": [
+    {
+      "source": "document:README.md",
+      "target": "document:profile/README.md",
+      "type": "documents",
+      "direction": "forward",
+      "weight": 0.5
+    },
+    {
+      "source": "document:profile/README.md",
+      "target": "config:.understand-anything/config.json",
+      "type": "related",
+      "direction": "forward",
+      "weight": 0.5
+    }
+  ]
+}

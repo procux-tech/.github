@@ -1,0 +1,28 @@
+{
+  "projectRoot": "C:/Users/MONSTER/procux-workspace/dot-github",
+  "batchFiles": [
+    {
+      "path": ".understand-anything/config.json",
+      "language": "json",
+      "sizeLines": 3,
+      "fileCategory": "config"
+    },
+    {
+      "path": "profile/README.md",
+      "language": "markdown",
+      "sizeLines": 180,
+      "fileCategory": "docs"
+    },
+    {
+      "path": "README.md",
+      "language": "markdown",
+      "sizeLines": 2,
+      "fileCategory": "docs"
+    }
+  ],
+  "batchImportData": {
+    ".understand-anything/config.json": [],
+    "profile/README.md": [],
+    "README.md": []
+  }
+}

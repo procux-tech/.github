@@ -1,0 +1,93 @@
+{
+  "version": "1.0.0",
+  "project": {
+    "name": ".github",
+    "languages": [
+      "markdown",
+      "json"
+    ],
+    "frameworks": [],
+    "description": "PROCUX GitHub organizasyon yapılandırma deposu.",
+    "analyzedAt": "2026-05-27T00:48:49.987Z",
+    "gitCommitHash": "9c2d03b6c1b26f2fb3fecd302d986a3872fd0bd8"
+  },
+  "nodes": [
+    {
+      "id": "config:.understand-anything/config.json",
+      "type": "config",
+      "name": "config.json",
+      "filePath": ".understand-anything/config.json",
+      "summary": "Understand-Anything yapılandırma dosyası.",
+      "tags": [
+        "configuration",
+        "understand-anything",
+        "build-system"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "document:profile/README.md",
+      "type": "document",
+      "name": "README.md (profile)",
+      "filePath": "profile/README.md",
+      "summary": "PROCUX organizasyon profil sayfası; misyon, vizyon ve 16 AI yönetici rolünü tanıtır.",
+      "tags": [
+        "documentation",
+        "entry-point",
+        "overview",
+        "organization"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "document:README.md",
+      "type": "document",
+      "name": "README.md",
+      "filePath": "README.md",
+      "summary": ".github deposunu tanımlayan kısa belge.",
+      "tags": [
+        "documentation",
+        "overview"
+      ],
+      "complexity": "simple"
+    }
+  ],
+  "edges": [
+    {
+      "source": "document:README.md",
+      "target": "document:profile/README.md",
+      "type": "documents",
+      "direction": "forward",
+      "weight": 0.5
+    },
+    {
+      "source": "document:profile/README.md",
+      "target": "config:.understand-anything/config.json",
+      "type": "related",
+      "direction": "forward",
+      "weight": 0.5
+    }
+  ],
+  "layers": [
+    {
+      "id": "layer:organization",
+      "name": "Organizasyon",
+      "description": "Organizasyon seviyesi belgeler.",
+      "nodeIds": [
+        "document:profile/README.md",
+        "document:README.md",
+        "config:.understand-anything/config.json"
+      ]
+    }
+  ],
+  "tour": [
+    {
+      "order": 1,
+      "title": "PROCUX Organizasyon Profili",
+      "description": "Misyon ve 16 AI yönetici rolünü keşfetmek için profil README ile başlayın.",
+      "nodeIds": [
+        "document:profile/README.md"
+      ]
+    }
+  ]
+}
