@@ -2,179 +2,68 @@
   <img src="https://avatars.githubusercontent.com/u/273627088?s=200&v=4" width="100" alt="PROCUX" />
 </p>
 
-<h1 align="center">PROCUX Technology Inc.</h1>
+<h1 align="center">PROCUX</h1>
 
 <p align="center">
-  <code>Professional (PRO) • Customer (CU) • Innovation (X) ❤️</code>
+  <code>Professional (PRO) · Customer (CU) · Innovation (X) ❤️</code>
 </p>
 
 <p align="center">
-  <strong>We don't automate tasks. We automate decisions.</strong>
+  <strong>AI software for the global market. B2B commerce platforms for Türkiye.</strong>
 </p>
 
 <p align="center">
-  <a href="https://procux.com"><img src="https://img.shields.io/badge/procux.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://procux.com.tr/en"><img src="https://img.shields.io/badge/procux.com.tr-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://www.linkedin.com/company/procux-technology-inc/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:info@procux.com"><img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.crunchbase.com/organization/procux-ai-technology-inc"><img src="https://img.shields.io/badge/Crunchbase-0288D1?style=for-the-badge&logo=crunchbase&logoColor=white" alt="Crunchbase" /></a>
+  <a href="mailto:support@procux.com"><img src="https://img.shields.io/badge/support%40procux.com-555555?style=for-the-badge" alt="Email" /></a>
 </p>
 
 ---
 
-## 🎯 What We Build
+PROCUX Teknoloji A.Ş. is a technology company based at Balıkesir Teknokent, Türkiye. We build AI software for the global market and B2B commerce platforms for businesses in Türkiye. Seven products share one technology core.
 
-PROCUX is a **decision intelligence platform for demand-driven B2B procurement**. We transform fragmented demand into collective power — then deploy AI-driven executive agents to turn that power into strategic advantage.
+## Two areas · seven products
 
-> 💡 We are not a marketplace. We are **Decision Infrastructure** — where demand becomes decisions.
+### AI software · global
 
----
+| Product | What it does |
+|---|---|
+| [Procux AI](https://www.procux.com) | A virtual management team of 16 AI executive agents working together with workflows |
+| [GoCux](https://www.gocux.com) | Runs company work (research, operations, documents, code) as work orders and stops for human approval in 7 critical action classes |
+| [Aircux](https://www.aircux.com) | Growth intelligence OS: lifecycle messaging, attribution, support, advertising and SEO/GEO on one backbone, with every output up for approval |
+| [Paycux](https://www.paycux.com) | SaaS control plane for catalog, entitlements and usage limits on the customer's own Stripe or Paddle account. It does not process payments or hold funds |
 
-## 🚀 Mission
+### B2B commerce platforms · Türkiye
 
-To democratize executive-level decision intelligence by enabling businesses of any size to act as a unified force — where collective demand triggers autonomous strategic execution.
+| Product | What it does |
+|---|---|
+| [Merkezi Satınalma](https://www.merkezisatinalma.com) | Pools same-day requests for the same product and collects bulk-volume quotes from approved suppliers, for SMEs |
+| [Satınalma Merkezi](https://www.satinalmamerkezi.com) | Group purchasing (GPO): wholesale prices under framework agreements for cafes, grocers, bakeries, restaurants and hotels |
+| [Hubcux](https://www.hubcux.com) | Super-app that brings both platforms together under a single sign-in, with no separate membership |
 
-## 🔭 Vision
+## How we work
 
-A global ecosystem where demand is unified across borders, strategic decisions are AI-orchestrated yet human-aligned, and collective advantage is the default standard — not a privilege reserved for enterprises.
+- **Shared core, multiple products.** The same AI infrastructure runs across all seven products, which keeps the cost of launching a new one low.
+- **Approval-gated AI.** In our products, critical decisions wait for human approval. The system takes the repetitive work; people keep the decision.
+- **R&D inside Teknokent.** Product development happens at Balıkesir Teknokent and is supported under TÜBİTAK's 1501 Industrial R&D Projects Support Program.
 
----
-
-## 🧬 Ecosystem Architecture
-
-```
-+--------------------------------------------------------------+
-|                     INTELLIGENCE LAYER                       |
-|                                                              |
-|   Multi-Agent AI Orchestration Engine                        |
-|   16 AI Agents  *  CEO Orchestrator  *  3-Layer Guardrails   |
-|   Collective Intelligence  *  Company DNA Profiler           |
-+--------------------------------------------------------------+
-|                      COMMERCE LAYER                          |
-|                                                              |
-|   +-----------------------+   +-----------------------+      |
-|   |  Collective           |   |  Group Buying         |      |
-|   |  Purchasing           |   |  Platform             |      |
-|   |  Platform             |   |                       |      |
-|   +-----------------------+   +-----------------------+      |
-|           TR  <-------------------->  Global                 |
-+--------------------------------------------------------------+
-|                   INFRASTRUCTURE LAYER                       |
-|                                                              |
-|   +-----------------------+   +-----------------------+      |
-|   |  Embedded Fintech     |   |  Logistics            |      |
-|   |  & Payments           |   |  Orchestration        |      |
-|   +-----------------------+   +-----------------------+      |
-+--------------------------------------------------------------+
-
-        Demand --> AI Analysis --> Payment --> Logistics --> Feedback
-```
-
----
-
-## 🔄 How It Works
-
-| Step | What Happens |
-|------|-------------|
-| **1. Aggregate** | Individual purchasing needs pool into collective demand volume |
-| **2. Analyze** | Multi-agent AI evaluates trade-offs, risks, and market opportunities |
-| **3. Decide** | Autonomous agents generate strategic recommendations with full transparency |
-| **4. Execute** | End-to-end workflows — from procurement to payment to delivery |
-| **5. Learn** | Collective intelligence feeds back, making every cycle smarter |
-
----
-
-## ⚙️ Tech Stack
-
-<table>
-<tr>
-<td><strong>Backend</strong></td>
-<td>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
-<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery" />
-</td>
-</tr>
-<tr>
-<td><strong>Frontend</strong></td>
-<td>
-<img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-</td>
-</tr>
-<tr>
-<td><strong>Data & AI</strong></td>
-<td>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-<img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logoColor=white" alt="XGBoost" />
-</td>
-</tr>
-<tr>
-<td><strong>Infra</strong></td>
-<td>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-<img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP" />
-</td>
-</tr>
-</table>
-
----
-
-## 📊 By the Numbers
+## Company
 
 | | |
 |---|---|
-| 🏗️ **7 Platforms** | Interconnected B2B decision infrastructure |
-| 🤖 **16 AI Agents** | Specialized C-suite executive agents |
-| 💼 **8,500+ Transactions** | Processed on flagship platform |
-| 🔬 **2 R&D Projects** | Active government-funded research grants |
-| 🔒 **17 Security Layers** | End-to-end authentication & encryption |
-| 🌍 **2 Markets** | Turkey (live) · EU (expanding) |
+| **Procux Teknoloji A.Ş.** | Parent company · Türkiye · R&D and product |
+| **Procux AI & Technology Inc.** | International sales and growth |
+| **Headquarters** | Balıkesir Teknokent, Balıkesir, Türkiye |
+| **Founded** | 2024 |
+| **Markets** | Türkiye and global |
+| **Trademarks** | PROCUX, Merkezi Satınalma and Satınalma Merkezi, registered with TÜRKPATENT |
+| **Recognition** | Tech Startup Badge (Teknogirişim), Ministry of Industry and Technology of Türkiye |
+
+**Investors:** we share the deck, financial model and data room after a first meeting. See [investor relations](https://procux.com.tr/en/investors).
+
+**Careers:** we grow the team by getting to know people. If you work on AI, product or software, write to support@procux.com.
 
 ---
 
-## 🧭 Core Principles
-
-| | |
-|---|---|
-| 🧠 **Decision-First AI** | We generate, evaluate, and execute strategic decisions — not just process data. |
-| 🤝 **Collective Power** | Individual limitations dissolve when demand unites; scale creates advantage. |
-| 🔍 **Radical Transparency** | Every AI recommendation includes its logic, data sources, and confidence level. |
-| 🌍 **Borderless by Design** | Geography, language, or company size never limits access to strategic intelligence. |
-
----
-
-## 🏛️ Organization
-
-| | |
-|---|---|
-| 🏢 **Company** | PROCUX Teknoloji A.Ş. |
-| 🔬 **R&D Center** | Balıkesir University Technopark (BAUNTEK), Türkiye |
-| 🇪🇺 **EU Entity** | *In formation* — Lithuania |
-| 📅 **Founded** | 2024 |
-
----
-
-<p align="center">
-  <a href="https://procux.com"><img src="https://img.shields.io/badge/procux.com-000000?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/company/procux-technology-inc/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="mailto:info@procux.com"><img src="https://img.shields.io/badge/info@procux.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<p align="center">
-  <strong>Where Demand Becomes Decisions</strong><br />
-  <sub>Professional Customer Innovation ❤️</sub>
-</p>
-
----
-
-> ℹ️ *Core platform repositories are private. Public repositories contain documentation, API schemas, and developer resources. All R&D is conducted under strict confidentiality, data security, and sustainable innovation principles.*
+<sub>Product source code lives in private repositories. The public repositories here are reserved for API schemas and developer documentation, published as our APIs open to partners.</sub>
