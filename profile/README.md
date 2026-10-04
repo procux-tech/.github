@@ -21,7 +21,7 @@
 
 ---
 
-PROCUX Teknoloji A.Ş. is a technology company based at Balıkesir Teknokent, Türkiye. We build AI software for the global market and B2B commerce platforms for businesses in Türkiye. Seven products share one technology core.
+PROCUX Teknoloji A.Ş. is a technology company based at Ege Teknopark, Bornova, İzmir, Türkiye. We build AI software for the global market and B2B commerce platforms for businesses in Türkiye. Seven products share one technology core.
 
 ## Two areas · seven products
 
@@ -46,7 +46,7 @@ PROCUX Teknoloji A.Ş. is a technology company based at Balıkesir Teknokent, T�
 
 - **Shared core, multiple products.** The same AI infrastructure runs across all seven products, which keeps the cost of launching a new one low.
 - **Approval-gated AI.** In our products, critical decisions wait for human approval. The system takes the repetitive work; people keep the decision.
-- **R&D inside Teknokent.** Product development happens at Balıkesir Teknokent and is supported under TÜBİTAK's 1501 Industrial R&D Projects Support Program.
+- **R&D inside Teknokent.** Product development happens at Ege Teknopark in Bornova, İzmir and is supported under TÜBİTAK's 1501 Industrial R&D Projects Support Program.
 
 ## Company
 
@@ -54,7 +54,7 @@ PROCUX Teknoloji A.Ş. is a technology company based at Balıkesir Teknokent, T�
 |---|---|
 | **Procux Teknoloji A.Ş.** | Parent company · Türkiye · R&D and product |
 | **Procux AI & Technology Inc.** | International sales and growth |
-| **Headquarters** | Balıkesir Teknokent, Balıkesir, Türkiye |
+| **Headquarters** | Ege Teknopark, Bornova, İzmir, Türkiye |
 | **Founded** | 2024 |
 | **Markets** | Türkiye and global |
 | **Trademarks** | PROCUX, Merkezi Satınalma and Satınalma Merkezi, registered with TÜRKPATENT |
